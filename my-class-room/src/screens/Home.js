@@ -17,8 +17,8 @@ function Home() {
     <div className="home">
       <div className="home__container">
         <img
-          src="https://upload.wikimedia.org/wikipedia/commons/5/59/Google_Classroom_Logo.png"
-          alt="Google Classroom Image"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4SDt0ImPtH5Om7SudKPPydkRHHtRP3iYnXg&usqp=CAU"
+          alt="Masai Classroom Image"
           className="home__image"
         />
         <button className="home__login" onClick={signInWithGoogle}>
